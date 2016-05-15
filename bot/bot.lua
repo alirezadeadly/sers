@@ -244,7 +244,7 @@ config = {
       "Welcome",
       "plugins"
       },
-    sudo_users = {122774063},
+    sudo_users = { 102407607},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
